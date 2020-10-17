@@ -1,3 +1,4 @@
+// bhai accept kr le
 import React, { Component } from 'react'
 import { View, StyleSheet, Alert } from 'react-native'
 import { TextInput, Title, Headline, Card, Button } from 'react-native-paper';
